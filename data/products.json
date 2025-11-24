@@ -1,0 +1,18 @@
+{
+  "BOX": {
+    "name": "DRAMABOX VIP PRIVATE JASPAY 1 BULAN",
+    "category": "10",
+    "price": 70000,
+    "stock": 0,
+    "sold": 102,
+    "desc": "Jaspay 1 bulan, bisa perpanjang tiap bulan"
+  },
+  "DRAMABOX": {
+    "name": "DRAMABOX VIP SHARING 1 BULAN",
+    "category": "10",
+    "price": 7500,
+    "stock": 33,
+    "sold": 470,
+    "desc": "Fullgar 25 hari, max login 3 jam setelahnya garansi hangus"
+  }
+}
